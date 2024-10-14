@@ -1,4 +1,4 @@
-# Project Overview: Property Prices and Criminality in Lincolnshire
+# Property Prices and Criminality in Lincolnshire
 
 ## Objective
 The goal of this project is to design and implement an end-to-end system architecture that can ingest, store, process, and analyze data, while applying best practices in DataOps and MLOps. This system will handle realistic data and deploy models to extract meaningful insights. Throughout the project, we focus on building a robust pipeline that addresses real-world challenges and demonstrates good development practices for data-driven systems.
